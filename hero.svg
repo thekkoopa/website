@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="Abstract shapes in soft sand and sage tones">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f4ece0"/>
+      <stop offset="1" stop-color="#dfe7dc"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <circle cx="930" cy="170" r="150" fill="#e8b98a" opacity="0.85"/>
+  <circle cx="260" cy="470" r="210" fill="#9db8a0" opacity="0.7"/>
+  <rect x="480" y="260" width="340" height="340" rx="40" fill="#c9d6e2" opacity="0.8" transform="rotate(12 650 430)"/>
+  <path d="M0 540 C 200 470, 400 600, 640 530 S 1040 480, 1200 550 L1200 630 L0 630 Z" fill="#7f9a86" opacity="0.55"/>
+  <circle cx="620" cy="140" r="46" fill="#f9f5ee" opacity="0.9"/>
+</svg>
